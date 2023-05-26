@@ -1,0 +1,3 @@
+INFO:2023-05-19 14:11:07,834:source_code.api.class_based.admin_api.Product_Details:Successfully fetched the record from Product_Details table
+INFO:2023-05-24 22:43:23,827:source_code.api.class_based.admin_api.Inventory_details:Successfully updated the record in Inventory_Details table
+INFO:2023-05-25 09:40:21,556:source_code.api.class_based.admin_api.Inventory_details:Successfully updated the record in Inventory_Details table
